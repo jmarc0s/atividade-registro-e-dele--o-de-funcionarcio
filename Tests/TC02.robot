@@ -10,4 +10,6 @@ I Register a new Employe
     And I fill up all fields including login details fields
     And I upload profile photo
     And I click in save submit button
-    And I fill up all other fields
+    And I go back to Employee List
+    And I search for the employee I just created
+    Then I delete the employee I just created
