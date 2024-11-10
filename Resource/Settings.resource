@@ -11,8 +11,11 @@ ${Browser}                  chrome
 #Dados do teste
 ${FirstName}                     Edward
 ${MiddleName}                    Sheeran
-${LastName}                      555-431
+${LastName}                      Silva
 ${Username}                      teste@gmail.com
-${Password}                      123456
+${Password}                      123456abc
 ${OtherId}                       123456
 ${DriversLicenseNumber}          87654321
+${DriverLicenseExpireDate}       2026-06-11
+${DateOfBirth}                   2000-06-11
+${ProfilePhoto}                  ${EXECDIR}//Resource//gato.png
